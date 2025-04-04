@@ -17,7 +17,7 @@ const landingPageData = {
         icon: "📊",
         title: "Expense Tracking",
         description:
-          "Easily track your daily expenses and see where your money goes.",
+          "track your daily expense wear your money goes",
       },
       {
         id: 2,
